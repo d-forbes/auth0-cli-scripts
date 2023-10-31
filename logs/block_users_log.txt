@@ -1,0 +1,279 @@
+Start of log: Tue Oct 31 05:55:12 CDT 2023
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}-----------------------
+End of log: Tue Oct 31 05:55:14 CDT 2023
+Start of log: Tue Oct 31 05:56:32 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}-----------------------
+End of log: Tue Oct 31 05:56:34 CDT 2023
+Start of log: Tue Oct 31 05:56:40 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}-----------------------
+End of log: Tue Oct 31 05:56:44 CDT 2023
+Start of log: Tue Oct 31 05:58:21 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}-----------------------
+End of log: Tue Oct 31 05:58:24 CDT 2023
+Start of log: Tue Oct 31 05:59:39 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}
+
+End of log: Tue Oct 31 05:59:42 CDT 2023
+Start of log: Tue Oct 31 06:01:03 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}
+
+End of log: Tue Oct 31 06:01:06 CDT 2023
+Start of log: Tue Oct 31 06:01:30 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+{
+  "blocked": false,
+  "created_at": "2023-02-13T20:44:31.219Z",
+  "email": "noel.scott+worker@workrise.com",
+  "email_verified": false,
+  "family_name": "Snowboarder",
+  "given_name": "Young",
+  "identities": [
+    {
+      "connection": "Email-Password",
+      "provider": "auth0",
+      "user_id": "a53e436e-c833-4302-8938-b713f32c14a2",
+      "isSocial": false
+    }
+  ],
+  "name": "Young Snowboarder",
+  "nickname": "noel.scott+worker",
+  "picture": "https://s.gravatar.com/avatar/fdf042f21cc6fce1130773d6565f7b84?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fys.png",
+  "updated_at": "2023-10-25T15:27:16.327Z",
+  "user_id": "auth0|a53e436e-c833-4302-8938-b713f32c14a2",
+  "app_metadata": {
+    "legacy_user_id": "77871",
+    "application_roles": "{}",
+    "partyId": "a53e436e-c833-4302-8938-b713f32c14a2",
+    "termsOfService": [
+      {
+        "timestamp": "2023-10-25T14:36:45.031Z",
+        "version": "9a7c0469-c353-4010-bdbc-e5bdb7824a22"
+      }
+    ]
+  },
+  "last_ip": "216.188.247.75",
+  "last_login": "2023-10-25T15:27:16.327Z",
+  "logins_count": 4
+}
+
+-----------------------
+End of log: Tue Oct 31 06:01:33 CDT 2023
+Start of log: Tue Oct 31 06:01:46 CDT 2023
+Processing user_id: auth0|a53e436e-c833-4302-8938-b713f32c14a2
+
+=== rigup-dev.auth0.com error
+
+ ▸    failed to parse command inputs: invalid json data given: invalid character 'a' looking for beginning of value
+
+
+-----------------------
+End of log: Tue Oct 31 06:01:48 CDT 2023

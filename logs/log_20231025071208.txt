@@ -1,0 +1,8 @@
+Start of log: Wed Oct 25 07:12:08 CDT 2023
+Blocking user: auth0|a53e436e-c833-4302-8938-b713f32c14a2 20231025071208
+
+=== rigup-dev.auth0.com error
+
+ ▸    failed to parse command inputs: invalid json data given: invalid character 'a' looking for beginning of value
+-----------------------
+End of log: Wed Oct 25 07:12:11 CDT 2023
